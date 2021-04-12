@@ -1,0 +1,45 @@
+.container
+{
+    text-align: center;
+    margin-top: 25px;
+   
+   
+}
+table{
+    border: solid 3px;
+    margin: auto;
+    width: 410px;
+    height: 100px;
+    table-layout: fixed;
+    border-radius: 30px;
+}
+input{
+    font-size: 35px;
+    border:dotted 4px black;
+    background-color: rgb(139, 233, 135);
+    margin-bottom: 5px;
+    color:rgb(0, 0, 0);
+    font-style: oblique
+}
+
+button{
+    font-size: 25px;
+    background-color:crimson;
+    height: 50px;
+    width: 100px;
+    border-radius: 40px;
+
+}
+
+#screen{
+    border-radius: 15px;
+
+}
+.operator{
+    background-color: cyan;
+}
+body{
+    
+    background-image: url(E:\ABC\GitHubFolder\Cal1\calculatorImage);
+    
+}
